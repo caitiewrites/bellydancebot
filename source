@@ -1,0 +1,325 @@
+{
+	"origin": [
+		"#moves#.",
+		"#find#.",
+		"#verb#.",
+		"#moves#.",
+		"#other#.",
+		"#moves#.",
+		"#verb#.",
+		"#moves#.",
+                "#consider#.",
+		"#moves#.",
+		"#other#."
+	],
+	"moves": [
+		"On the #order# #pulse# #move# #spatial# for #temporal#",
+		"#move.capitalize# #spatial# for #temporal#"
+	],
+	"find": [
+		"Find the nearest #prop# and #action#"
+	],
+	"order": [
+		"next",
+		"second",
+		"third",
+		"fourth",
+		"fifth"
+	],
+	"direction": [
+		"forward",
+		"backwards",
+		"left",
+		"right"
+	],
+	"spatial": [
+		"#direction#",
+		"#method# #direction#",
+		"#method# #landmark#",
+		"#landmark#"
+	],
+	"landmark": [
+		"towards the audience",
+		"towards the band",
+		"in the direction of the left stage wings",
+		"in the direction of the right stage wings",
+		"with your back to the audience",
+		"towards the back of house",
+		"away from the door",
+		"towards the music",
+		"away from the music",
+		"towards the lights",
+		"away from the lights"
+	],
+	"method": [
+		"backwards",
+		"sideways",
+		"lightly",
+    		"heavily",
+    		"quickly",
+    		"slowly",
+    		"gently",
+    		"intensely",
+    		"movingly",
+    		"strongly",
+    		"jauntily",
+    		"lovingly",
+    		"flirtatiously",
+    		"gracefully",
+    		"with gusto",
+    		"with sorrow"
+	],
+	"temporal": [
+		"#time#",
+		"#time#",
+		"#count#",
+		"#speedflow#",
+		"a while",
+		"a little while"
+	],
+	"time": [
+		"#number# beats",
+		"#number# verses",
+		"#number# counts",
+		"#number# bars",
+		"the whole song"
+	],
+	"number": [
+		"two",
+		"three",
+		"four",
+		"five",
+		"six",
+		"seven",
+		"eight",
+		"nine",
+		"ten",
+		"eleven",
+		"twelve",
+		"thirteen",
+		"fourteen",
+		"fifteen",
+		"sixteen",
+		"seventeen",
+		"eighteen",
+		"nineteen",
+		"twenty"
+	],
+	"smallnumber": [
+		"two",
+		"three",
+		"four",
+		"five"
+	],
+	"largenumber": [
+		"ten",
+		"fifteen",
+		"twenty",
+		"thirty",
+		"thirty",
+		"fifty",
+		"eighty-five",
+		"one hundred"
+	],
+	"count": [
+		"the count of #number#"
+	],
+	"speedflow": [
+		"#number# steps",
+		"#number# free steps",
+		"#largenumber# bound steps"
+	],
+	"pulse": [
+		"count",
+		"verse",
+    		"bar",
+    		"beat"
+	],
+	"other": [
+		"Explore the front of the stage for #time#. When you leave, turn for #time#",
+		"Explore the front of the stage. When you leave, turn #direction#",
+		"Take the most #degree# route for #temporal#",
+		"Close your eyes for #count#. Identify the #loudsoft# sound. Now #move# #tofrom# it",
+		"Travel towards the back of the stage, pick the move you are #mostleast# likely to enjoy, and find a way to express it",
+		"Pick a single instrument in the song, then follow it for #temporal# or until the next chorus, whichever comes sooner",
+		"Look through your costume collection.  Find the #costume#. Put it on",
+		"#position# in the center of the stage and #method# regard #contemplate# for #time#",
+		"If you feel #posfeeling#, turn left. If you feel #negfeeling#, turn right. If neither, #alternative#",
+		"Find the nearest haberdashery, buy #fabricstore#, use it #sewing#, then give to a friend"
+	],
+	"degree": [
+		"winding",
+		"direct"
+	],
+	"loudsoft": [
+		"loudest",
+		"softest"
+	],
+	"tofrom": [
+		"towards",
+		"away from"
+	],
+	"mostleast": [
+		"most",
+		"least"
+	],
+	"costume": [
+		"cheapest",
+		"most expensive",
+		"wildest",
+		"traditional",
+		"most festive",
+		"most thematic",
+		"most dramatic"
+	],
+	"position": [
+		"Pose",
+		"Stand",
+		"Lean",
+		"Kneel",
+		"Arabesque"
+	],
+	"contemplate": [
+		"the audience",
+		"the band",
+		"the wings",
+		"the back of house",
+		"the lights",
+		"the sound booth",
+		"the edge of the stage",
+		"the moon",
+		"the stars",
+		"your heart",
+		"your beloved"
+	],
+	"posfeeling": [
+		"happy",
+		"calm",
+		"delighted",
+		"exhilarated",
+		"optimistic",
+		"energized",
+		"full of light",
+		"open"
+	],
+	"negfeeling": [
+		"sad",
+		"anxious",
+		"dispirited",
+		"frustrated",
+		"pessimistic",
+		"tired",
+		"muscle tension",
+		"closed"
+	],
+	"alternative": [
+		"keep going",
+		"wait",
+		"wait until you do",
+		"breathe, then keep going"
+	],
+	"fabricstore": [
+		"sequins",
+		"fringe",
+		"ribbon",
+    		"animal print",
+    		"silk",
+    		"braided trim",
+                "assuit",
+		"velvet",
+		"glitter-dot fabric",
+		"chiffon",
+		"beads",
+		"ruffles",
+		"coins",
+		"embroidered fabric",
+		"lace",
+		"velour",
+		"lamé",
+		"mesh netting",
+		"glitter",
+		"charmeuse",
+		"georgette",
+		"satin",
+		"rhinestones",
+		"brocade"
+	],
+	"sewing": [
+		"for #number# minutes",
+		"for #number# costumes"
+	],
+	"prop": [
+		"pair of zills",
+		"cane",
+		"silk veil",
+		"circle veil",
+		"veil",
+		"shamadan",
+		"snake",
+		"isis wings",
+		"sword",
+    		"fan"
+	],
+	"action": [
+		"circle around it",
+		"lift it",
+		"draw it around yourself",
+		"wave it aloft for #smallnumber# beats",
+		"gaze at it",
+		"play with it",
+		"wave it",
+		"swirl it",
+		"extend it",
+		"balance it",
+		"spin around with it for #time#"
+	],
+	"verb": [
+		"Move",
+		"Dance",
+		"Pause",
+		"Breathe",
+   		"Shimmy",
+		"Zaghareet",
+		"Lift",
+		"Drop"
+	],
+
+"move": [
+		"move",
+		"go",
+		"travel",
+		"head",
+		"go",
+		"meander",
+		"wheel",
+    		"spin",
+    		"turn",
+    		"paddle turn",
+    		"circle",
+    		"camel walk",
+		"proceed",
+		"wander",
+    		"hip drop",
+    		"hip lift",
+    		"rib lift",
+    		"undulate",
+    		"hip circle",
+    		"hop",
+		"sustain"
+    ],
+	"consider": [
+		"Consider #question# you are. Should you be here? Do you want to be here? If not, #keepgo#",
+		"Consider what the audience might be thinking. Decide if you want to keep going",
+		"Consider your costume. If you wish you were wearing something different, #keepgo#",
+		"Consider your well-being. Do you feel all is well? If not, #keepgo#",
+		"Disobey #thisnext# instruction"],
+	"question": [
+		"where",
+		"who"],
+	"keepgo": [
+		"keep going",
+		"exit the stage"],
+	"thisnext": [
+		"this",
+		"the next"]
+}
